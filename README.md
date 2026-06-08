@@ -62,7 +62,7 @@
 
 `Symfony` • `JavaFX` • `MVC` • `MySQL` • `Twig` • `Java` • `PHP`
 
-🔗 [Web version](https://github.com/Ahd-2005/AgriSense-360) · [Desktop version](https://github.com/ahmed-habouba/AgriSense360-javaFX)
+🔗 [Web version]((https://github.com/ahmed-habouba/AgriSense360-javaFX) · [Desktop version](https://github.com/Ahd-2005/AgriSense-360)
 
 ---
 
